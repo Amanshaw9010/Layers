@@ -66,7 +66,7 @@ const Card = () => {
         <div>
             <div className="Card-container">
                 <div className="Card-main">
-                    <h2>New arrival</h2>
+                    <h2>New product</h2>
                     <div className="Cards">
                         {data.map((prod) => {
                             return (
