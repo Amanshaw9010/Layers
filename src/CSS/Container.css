@@ -1,0 +1,23 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+.Slider {
+    background-color: #dedee0;
+    width: 100%;
+    height: 120vh;
+    display: flex;
+    justify-content: right;
+}
+
+.Slider>img {
+    width: 50%;
+}
+
+
+
+
+
